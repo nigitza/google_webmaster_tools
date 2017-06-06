@@ -1,0 +1,18 @@
+-r base.txt
+backports.ssl-match-hostname==3.5.0.1
+certifi==2016.8.31
+factory-boy==2.7.0
+functools32==3.2.3.post2
+gnureadline==6.3.3
+inflect==0.2.5
+ipython==5.1.0
+jsonschema==2.5.1
+mistune==0.7.3
+mock==2.0.0
+nose==1.3.7
+numpydoc==0.6.0
+ptyprocess==0.5.1
+pyzmq==15.4.0
+terminado==0.6
+tornado==4.4.1
+
